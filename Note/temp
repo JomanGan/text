@@ -1,2 +1,26 @@
 github   
-学习了 新建文件夹 上传图片 并通过 md文件 将图片显示
+学习了 新建文件夹 上传图片 并通过 md文件 将图片显
+
+'''java
+
+ChairMan.java
+
+Public class ChairMan{
+
+   static void main(string[],args()){
+   
+        SystemOut. .println("姓名：习大大");
+        
+        
+
+}
+
+
+
+}
+
+
+
+
+
+'''
