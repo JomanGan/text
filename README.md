@@ -42,9 +42,6 @@
 
 </details>
 
-### 牛客网
-
-* [牛客网 . 在线编程专题](https://www.nowcoder.com/activity/oj)
 
 
 <b><details><summary>💻 操作系统</summary></b>
