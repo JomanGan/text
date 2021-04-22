@@ -1,8 +1,6 @@
 <br>
 <div align="center">
 📘 Summary
-&nbsp&nbsp&nbsp | &nbsp&nbsp&nbsp
-<a href="https://github.com/huihut/interview/blob/master/README_Details.md">📖 Details</a>
 </div> 
 <br>
 
