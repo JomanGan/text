@@ -4,7 +4,7 @@
 </div> 
 <br>
 
-<b><details><summary>💡 提示</summary></b>
+<b><><summary>💡 提示</summary></b>
 
 右侧目录支持方式：
 
@@ -15,18 +15,17 @@
 
 </details>
 
+
 <b><details><summary>➕ C/C++</summary></b>
 
 
 
-
----
 ### C 实现 C++ 类
 
 > [C 语言实现封装、继承和多态](http://dongxicheng.org/cpp/ooc/)    
 
 
-<details><summary>explicit 使用</summary> 
+<details><summary>explicit 使用</summary> </details>
 
 
 ### Google C++ Style Guide
@@ -41,11 +40,12 @@
 
 </details>
 
+</details>
+
 ### 牛客网
 
 * [牛客网 . 在线编程专题](https://www.nowcoder.com/activity/oj)
 
-</details>
 
 <b><details><summary>💻 操作系统</summary></b>
   
