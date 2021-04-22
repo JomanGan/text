@@ -4,7 +4,7 @@
 </div> 
 <br>
 
-<b><detail><summary>💡 提示</summary></b>
+<b><details><summary>💡 提示</summary></b>
 
 右侧目录支持方式：
 
@@ -73,7 +73,7 @@
 【答案三】为了防止已失效的连接请求报文段突然又传送到了服务端，因而产生错误。
 
 > [《计算机网络（第 7 版）-谢希仁》](https://github.com/huihut/interview/blob/master/images/TCP-transport-connection-management.png)
-> 
+</details>
 
 
 <b><details><summary>📜 License</summary></b>
