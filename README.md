@@ -4,7 +4,7 @@
 </div> 
 <br>
 
-<b><><summary>💡 提示</summary></b>
+<b><detail><summary>💡 提示</summary></b>
 
 右侧目录支持方式：
 
