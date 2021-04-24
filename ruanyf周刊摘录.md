@@ -1,7 +1,13 @@
 ## 项目地址
 - https://github.com/ruanyf/weekly/ (科技爱好者周刊，每周五发布)  
 
+### 工具
 
+1、[Aerial](https://github.com/OrangeJedi/Aerial)【收录在154期】  
+
+![](https://cdn.beekka.com/blogimg/asset/202103/bg2021032602.jpg)
+
+Windows 屏幕保护程序，在屏保时自动播放 Apple TV 的屏保视频，非常漂亮。
 
 ### 言论
 
