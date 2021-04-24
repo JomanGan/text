@@ -23,7 +23,13 @@ Linux 服务器经常发生磁盘已满的错误，我的解决方法是，在�
 
 一旦磁盘已满，就删了这个文件，顿时就有了多余空间，也有了解决问题的缓冲时间。
 
---[《为什么我所有的服务器都有 8GB 的空文件》](https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/)
+--[《为什么我所有的服务器都有 8GB 的空文件》](https://brianschrader.com/archive/why-all-my-servers-have-an-8gb-empty-file/)  
+
+3、
+
+最好的故事是不完美的。当一个故事有点奇怪时，它会吸引你，人们会谈论那些没有按照预期发展的事情。那些出乎意料的东西会让你念念不忘。
+
+-- 《马尔科姆·格拉德威尔的写作课》  
 
 ## 订阅
 
