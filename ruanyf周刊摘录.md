@@ -1,5 +1,5 @@
 ## 项目地址
-- https://github.com/ruanyf/weekly/ (科技爱好者周刊)  
+- https://github.com/ruanyf/weekly/ (科技爱好者周刊，每周五发布)  
 
 
 
@@ -11,3 +11,12 @@
 一旦确定了目标，就必须迅速完成少数优先级最高的任务，这是第一位重要的。我还没有遇到过一个非常成功但行动缓慢的人。  
 -- Sam Altman，OpenAI 的CEO 和 YC 前总裁  
 
+
+
+## 订阅
+
+感兴趣的微信搜索“阮一峰的网络日志”或者扫描二维码，即可订阅。
+
+![](https://cdn.beekka.com/blogimg/asset/202103/bg2021030402.jpg)
+
+（完）
