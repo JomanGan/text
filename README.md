@@ -8,49 +8,14 @@
 
 <b><details><summary>💡 提示</summary></b>
 
-右侧目录支持方式：
-
-* 语雀的镜像仓库：[C/C++ 面试基础知识总结](https://www.yuque.com/huihut/interview/readme)
-* Github + TOC：[jawil/GayHub TOC 导航](https://github.com/jawil/GayHub)
-
-> 📘 Summary 的 README 页面无法使用目录跳转，请在 [📖 Details](https://github.com/huihut/interview/blob/master/README_Details.md) 页面使用
+> 📘 Summary 的页面无法使用目录跳转
 
 </details>
-
-
-<b><details><summary>➕ C/C++</summary></b>
-
-
-
-### C 实现 C++ 类
-
-> [C 语言实现封装、继承和多态](http://dongxicheng.org/cpp/ooc/)    
-
-
-<details><summary>explicit 使用</summary> </details>
-
-
-### Google C++ Style Guide
-
-> 英文：[Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)  
-> 中文：[C++ 风格指南](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
-<details><summary>Google C++ Style Guide 图</summary>
-
-![Google C++ Style Guide](images/GoogleCppStyleGuide.png)
-
-> 图片来源于：[CSDN . 一张图总结Google C++编程规范(Google C++ Style Guide)](https://blog.csdn.net/voidccc/article/details/37599203)
-
-</details>
-
-</details>
-
 
 
 <b><details><summary>💻 操作系统</summary></b>
   
 ##### TCP 三次握手建立连接
-
-![UDP 报文](images/TCP三次握手建立连接.png)
 
 【TCP 建立连接全过程解释】
 
@@ -65,13 +30,6 @@
 
 > [Google Groups . TCP 建立连接为什么是三次握手？{技术}{网络通信}](https://groups.google.com/forum/#!msg/pongba/kF6O7-MFxM0/5S7zIJ4yqKUJ)
 
-【答案二】因为双方都需要确认对方收到了自己发送的序列号，确认过程最少要进行三次通信。
-
-> [知乎 . TCP 为什么是三次握手，而不是两次或四次？](https://www.zhihu.com/question/24853633/answer/115173386)
-
-【答案三】为了防止已失效的连接请求报文段突然又传送到了服务端，因而产生错误。
-
-> [《计算机网络（第 7 版）-谢希仁》](https://github.com/huihut/interview/blob/master/images/TCP-transport-connection-management.png)
 </details>
 
 
