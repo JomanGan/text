@@ -30,7 +30,7 @@
    “Java的最佳学习方式”
 
 
-## java清单
+## java清单            请配合食用：http://liuwangshu.cn/system/  
 ```
 Android各个版本的特性（例如6.0，动态权限）
 ANR的原因
